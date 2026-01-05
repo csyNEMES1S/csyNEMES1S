@@ -20,24 +20,25 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 System Intel
 
-<a href="https://www.instagram.com/USERNAME">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=F70000"/>
-</a>
-<a href="https://www.linkedin.com/in/USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F70000"/>
-</a>
-<a href="mailto:EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F70000"/>
-</a>
+```txt
+[ SYSTEM INTEL ]
 
----
+Name        : csyNEMES1S
+Role        : Cyber Security Student
+University  : Istanbul Aydın University
 
-## 🚀 Featured Project
+Odak Alanları / Focus Areas
+- Red Team & Blue Team Fundamentals
+- Network Security & Monitoring
+- Security Automation with Python
 
-<a href="https://github.com/csyNEMES1S/Local-Network-Scanner">
-  <img src="https://img.shields.io/badge/Local_Network_Scanner-000000?style=for-the-badge&logo=github&logoColor=F70000"/>
-</a>
+İlgi Alanları / Interests
+- Manga (Berserk, Itaewon Class)
+- Webtoons
+- Cyber Security & Coding
 
-</div>
+Hedef / Goal
+- Become a professional Cyber Security Specialist
+- Develop practical and real-world security tools
