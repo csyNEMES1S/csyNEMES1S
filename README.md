@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=csyNEMES1S_Online...;Cyber+Security+Student+%40IAU;Red+Team+Candidate;Manga+Reader+%26+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=csyNEMES1S_Online...;Cyber+Security+Student+%40IAU;Red+Team+Candidate;Developer" alt="Typing SVG" />
 
   <br/>
 
@@ -9,16 +9,15 @@
 │                                                          │
 │  🎓 University:   Istanbul Aydin Univ. (Cyber Sec)       │
 │  🔭 Project:      Developing 'Aurora' & Network Tools    │
-│  📚 Manga:        Berserk, Itaewon Class, Solo Leveling  │
-│  🎯 Objective:    Advanced Penetration Testing           │
-│  🛠️ OS:           Kali Linux / Windows 11                │
+│  🎯 Objective:    cyber security engineer                │
+│  🛠️ OS:           Kali Linux / Windows 10                │
 │                                                          │
 ╰──────────────────────────────────────────────────────────╯
   </pre>
 
   <br/>
 
-  <a href="https://linkedin.com/in/ömer-asaf-sural">
+  <a href="www.linkedin.com/in/ömer-asaf-sural">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=F70000" />
   </a>
   <a href="mailto:nemesis.cybersec@gmail.com">
