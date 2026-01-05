@@ -1,8 +1,7 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=900&size=50&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=70&lines=CSYNEMES1S;CYBER+SECURITY" alt="Header" />
   
-  <h3 style="color: #888888;">ISTANBUL AYDIN UNIVERSITY | RED TEAM APPRENTICE</h3>
+  <h3 style="color: #888888;">ISTANBUL AYDIN UNIVERSITY | CYBER SECURİTY </h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/ömer-asaf-sural" target="_blank">
@@ -22,13 +21,12 @@
 <table align="center" width="95%" style="border: none;">
   <tr>
     <td width="55%" valign="top" style="border: none;">
-      <h3 align="left">👨‍💻 SYSTEM IDENTITY</h3>
+      <h3 align="left"> MİNİ İNFO BAR </h3>
       <br/>
       > <b>Real Name:</b> Ömer Asaf Sural<br/>
-      > <b>Role:</b> Cyber Security Student @ IAU<br/>
+      > <b>Role:</b> Cyber Security Student @ IAU <br/>
       > <b>Location:</b> Istanbul, Turkiye<br/>
-      > <b>Focus:</b> Network Security & Penetration Testing<br/>
-      > <b>Manga:</b> Berserk, Itaewon Class<br/>
+      > <b>Focus:</b>   Software and System Development & Future Cybersecurity Expert<br/>
       <br/>
       <img src="https://img.shields.io/badge/Status-Online-success?style=flat-square&logo=github" />
       <img src="https://img.shields.io/badge/Vibe-Cyberpunk-red?style=flat-square" />
@@ -47,13 +45,13 @@
 <br/>
 
 <div align="center">
-  <h3>🛠️ BATTLE STATION & ARSENAL</h3>
+  <h3> WORKSTATİON & ARSENAL</h3>
   
   <img src="https://skillicons.dev/icons?i=python,c,html,css,vscode,pycharm,kali,linux,bash,github,wireshark" />
   <br/><br/>
 </div>
 
-<h3 align="center">🚀 CURRENT OPERATION</h3>
+<h3 align="center"> CURRENT REPOS</h3>
 <div align="center">
   <a href="https://github.com/csyNEMES1S/Local-Network-Scanner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=csyNEMES1S&repo=Local-Network-Scanner&theme=radical&hide_border=true&bg_color=0d1117&title_color=F70000&icon_color=F70000&description_lines=2" width="60%" />
