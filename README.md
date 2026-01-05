@@ -1,9 +1,16 @@
 <div align="center">
 
-# ⚡ **csyNEMES1S**
-### `Cyber Security Student • Nemesis Protocol`
+```txt
+>> NEMESIS::INIT
+USER   : csyNEMES1S
+ROLE   : Cyber Security Student
+MODE   : Learning / Research
+STATUS : ONLINE
+<div align="center">
 
-**Istanbul Aydın University**  
-*Learning Red Team & Blue Team*
-
-</div>
+```txt
+>> NEMESIS::INIT
+USER   : csyNEMES1S
+ROLE   : Cyber Security Student
+MODE   : Learning / Research
+STATUS : ONLINE
