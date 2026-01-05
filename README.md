@@ -1,114 +1,60 @@
 <div align="center">
 
-<!-- ================= NEMESIS HEADER ================= -->
-<pre>
-███╗   ██╗███████╗███╗   ███╗███████╗██╗███████╗
-██╔██╗ ██║█████╗  ██╔████╔██║█████╗  ██║███████╗
-██║╚██╗██║██╔══╝  ██║╚██╔╝██║██╔══╝  ██║╚════██║
-██║ ╚████║███████╗██║ ╚═╝ ██║███████╗██║███████║
-╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝╚══════╝╚═╝╚══════╝
-</pre>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=csyNEMES1S_Online...;Cyber+Security+Student+%40IAU;Red+Team+Candidate;Manga+Reader+%26+Developer" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F70000&center=true&vCenter=true&width=520&lines=Cyber+Security+Student;Istanbul+Aydin+University;Learning+Red+and+Blue+Team;Future+Cyber+Security+Specialist" />
+  <br/>
 
-<br/><br/>
+  <pre align="center" style="background-color: #0d1117; border: 1px solid #F70000; border-radius: 6px; color: #F70000; font-family: 'Courier New', monospace;">
+╭── ⚡ SYSTEM IDENTITY: csyNEMES1S ────────────────────────╮
+│                                                          │
+│  🎓 University:   Istanbul Aydin Univ. (Cyber Sec)       │
+│  🔭 Project:      Developing 'Aurora' & Network Tools    │
+│  📚 Manga:        Berserk, Itaewon Class, Solo Leveling  │
+│  🎯 Objective:    Advanced Penetration Testing           │
+│  🛠️ OS:           Kali Linux / Windows 11                │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+  </pre>
 
-<!-- ================= CONTACT ================= -->
-<a href="https://github.com/csyNEMES1S">
-<img src="https://img.shields.io/badge/GitHub-csyNEMES1S-000000?style=for-the-badge&logo=github&logoColor=F70000">
-</a>
-<a href="mailto:nemesis.cybersec@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=F70000">
-</a>
-<a href="https://www.linkedin.com/in/omer-asaf-sural">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=F70000">
-</a>
+  <br/>
 
-<br/><br/>
+  <a href="https://linkedin.com/in/ömer-asaf-sural">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=F70000" />
+  </a>
+  <a href="mailto:nemesis.cybersec@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send_Packet-000000?style=for-the-badge&logo=gmail&logoColor=F70000" />
+  </a>
 
-<!-- ================= SYSTEM INTEL ================= -->
-<pre>
-[ SYSTEM INTEL ]
+  <br/><br/>
 
-Handle     : csyNEMES1S
-Status     : Cyber Security Student
-University : Istanbul Aydin University
-Location   : Istanbul / TR
+  <h3>⚔️ Weapons & Tools</h3>
+  
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=F70000" />
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=F70000" />
+  <img src="https://img.shields.io/badge/Network_Security-F70000?style=for-the-badge&logo=cisco&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=F70000" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=F70000" />
 
-Interests  : Cyber Security, Coding
-             Red Team (Learning)
-             Blue Team (Learning)
-             Manga & Webtoons
+  <br/><br/>
 
-Projects   : Aurora Discord Bot
-             Local Network Scanner
+  <h3>📊 Mission Log</h3>
+  
+  <a href="https://github.com/csyNEMES1S">
+    <img src="https://github-readme-stats.vercel.app/api?username=csyNEMES1S&show_icons=true&bg_color=0d1117&title_color=F70000&text_color=ffffff&icon_color=F70000&hide_border=true" alt="Stats" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/csyNEMES1S">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csyNEMES1S&layout=compact&bg_color=0d1117&title_color=F70000&text_color=ffffff&hide_border=true" alt="Top Langs" />
+  </a>
 
-Goal       : Cyber Security Specialist
-</pre>
+  <br/><br/>
 
-<br/>
-
-<!-- ================= LEARNING PATH ================= -->
-<pre>
-[ LEARNING PATH ]
-
-[✓] Networking Fundamentals
-[✓] Linux & Bash Fundamentals
-[✓] Python for Automation
-[✓] Network Scanning Concepts
-[ ] Web Security Basics (OWASP)
-[ ] SOC & Blue Team Basics
-[ ] Red Team Methodologies
-[ ] Advanced Cyber Security
-</pre>
-
-<br/>
-
-<!-- ================= CYBER ARSENAL ================= -->
-<pre>
-[ CYBER ARSENAL ]
-</pre>
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=F70000">
-<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=F70000">
-<img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=F70000">
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=F70000">
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F70000">
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=F70000">
-
-<br/><br/>
-
-<!-- ================= ACTIVITY ================= -->
-<pre>
-[ SYSTEM ACTIVITY ]
-</pre>
-
-<img src="https://github-readme-stats.vercel.app/api?username=csyNEMES1S&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
-
-<pre>
-[ GitHub statistics may take a few seconds to load ]
-</pre>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csyNEMES1S&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
-
-<br/>
-
-<!-- ================= FEATURED ================= -->
-<pre>
-[ FEATURED PROJECT ]
-</pre>
-
-<a href="https://github.com/csyNEMES1S/Local-Network-Scanner">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=csyNEMES1S&repo=Local-Network-Scanner&theme=dark&hide_border=true&cache_seconds=1800">
-</a>
-
-<br/><br/>
-
-<!-- ================= FOOTER ================= -->
-<pre>
-student@nemesis:~$ echo "Learning. Building. Improving."
-System Status : Stable
-Profile Mode  : Ethical • Academic • Professional
-</pre>
+  <h3>🚀 Target Acquired</h3>
+  
+  <a href="https://github.com/csyNEMES1S/Local-Network-Scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=csyNEMES1S&repo=Local-Network-Scanner&bg_color=0d1117&title_color=F70000&text_color=ffffff&icon_color=F70000&hide_border=true" alt="Local Network Scanner" />
+  </a>
 
 </div>
