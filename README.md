@@ -1,8 +1,8 @@
 <div align="center">
 
-```txt
->> NEMESIS::INIT
-USER   : csyNEMES1S
-ROLE   : Cyber Security Student
-MODE   : Learning / Research
-STATUS : ONLINE
+# **csyNEMES1S**
+#### Cyber Security Student @ Istanbul Aydın University
+
+`Focused on Security • Coding • Continuous Learning`
+
+</div>
