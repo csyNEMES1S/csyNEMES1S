@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 Merhaba, Ben csyNEMES1S!
 
-<!--
-**csyNEMES1S/csyNEMES1S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+İstanbul Aydın Üniversitesi'nde Siber Güvenlik öğrencisiyim.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Yetenekler & Araçlar
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Security-FF0000?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub İstatistiklerim
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=csyNEMES1S&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csyNEMES1S&layout=compact&theme=radical&hide_border=true" height="150" alt="langs" />
+</div>
+
+---
+
+### 🚀 Son Projem: Local Network Scanner
+Python ile geliştirdiğim, ağ üzerindeki cihazları ve açık portları tespit eden güvenlik aracı.
+* [Projeyi Görüntüle](https://github.com/csyNEMES1S/Local-Network-Scanner)
