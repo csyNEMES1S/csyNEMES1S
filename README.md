@@ -1,20 +1,19 @@
 <div align="center">
 
-<!-- ================== NEMESIS CORE ================== -->
+<!-- ================= NEMESIS HEADER ================= -->
 <pre>
-███╗   ██╗███████╗███╗   ███╗███████╗███████╗██╗███████╗
-████╗  ██║██╔════╝████╗ ████║██╔════╝██╔════╝██║██╔════╝
-██╔██╗ ██║█████╗  ██╔████╔██║█████╗  ███████╗██║███████╗
-██║╚██╗██║██╔══╝  ██║╚██╔╝██║██╔══╝  ╚════██║██║╚════██║
-██║ ╚████║███████╗██║ ╚═╝ ██║███████╗███████║██║███████║
-╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝╚══════╝
+███╗   ██╗███████╗███╗   ███╗███████╗██╗███████╗
+██╔██╗ ██║█████╗  ██╔████╔██║█████╗  ██║███████╗
+██║╚██╗██║██╔══╝  ██║╚██╔╝██║██╔══╝  ██║╚════██║
+██║ ╚████║███████╗██║ ╚═╝ ██║███████╗██║███████║
+╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝╚══════╝╚═╝╚══════╝
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F70000&center=true&vCenter=true&width=750&lines=NEMESIS_STUDENT_PROFILE;Cyber+Security+Student+%40IAU;Learning+Red+%26+Blue+Team;Future+Cyber+Security+Specialist" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F70000&center=true&vCenter=true&width=520&lines=Cyber+Security+Student;Istanbul+Aydin+University;Learning+Red+and+Blue+Team;Future+Cyber+Security+Specialist" />
 
 <br/><br/>
 
-<!-- ================== CONTACT ================== -->
+<!-- ================= CONTACT ================= -->
 <a href="https://github.com/csyNEMES1S">
 <img src="https://img.shields.io/badge/GitHub-csyNEMES1S-000000?style=for-the-badge&logo=github&logoColor=F70000">
 </a>
@@ -27,69 +26,77 @@
 
 <br/><br/>
 
-<!-- ================== SYSTEM INTEL ================== -->
+<!-- ================= SYSTEM INTEL ================= -->
 <pre>
-╔═══════════════════════ SYSTEM INTEL ═══════════════════════╗
-║ Status        : Student / Learner                            ║
-║ Handle        : csyNEMES1S                                    ║
-║ Location      : Istanbul, Turkey                              ║
-║ University    : Istanbul Aydin University                    ║
-║ Department    : Cyber Security                                ║
-║                                                              ║
-║ Interests     : Cyber Security • Coding                       ║
-║                 Red Team (Learning)                           ║
-║                 Blue Team (Learning)                          ║
-║                 Manga & Webtoons                              ║
-║                                                              ║
-║ Projects      : Aurora Discord Bot                            ║
-║                 Local Network Scanner                         ║
-║                                                              ║
-║ Goal          : Professional Cyber Security Specialist        ║
-╚══════════════════════════════════════════════════════════════╝
+[ SYSTEM INTEL ]
+
+Handle     : csyNEMES1S
+Status     : Cyber Security Student
+University : Istanbul Aydin University
+Location   : Istanbul / TR
+
+Interests  : Cyber Security, Coding
+             Red Team (Learning)
+             Blue Team (Learning)
+             Manga & Webtoons
+
+Projects   : Aurora Discord Bot
+             Local Network Scanner
+
+Goal       : Cyber Security Specialist
 </pre>
 
 <br/>
 
-<!-- ================== LEARNING PATH ================== -->
-<h3>🧠 LEARNING PATH / ÖĞRENME YOLCULUĞU</h3>
-
+<!-- ================= LEARNING PATH ================= -->
 <pre>
+[ LEARNING PATH ]
+
 [✓] Networking Fundamentals
-[✓] Linux & Bash Basics
+[✓] Linux & Bash Fundamentals
 [✓] Python for Automation
 [✓] Network Scanning Concepts
-[ ] Web Security Fundamentals
-[ ] Blue Team & SOC Basics
+[ ] Web Security Basics (OWASP)
+[ ] SOC & Blue Team Basics
 [ ] Red Team Methodologies
-[ ] Advanced Cyber Security Topics
+[ ] Advanced Cyber Security
 </pre>
 
 <br/>
 
-<!-- ================== CYBER ARSENAL ================== -->
-<h3>⚔ CYBER ARSENAL (TOOLS & TECHNOLOGIES)</h3>
+<!-- ================= CYBER ARSENAL ================= -->
+<pre>
+[ CYBER ARSENAL ]
+</pre>
 
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=F70000">
 <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=F70000">
 <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=F70000">
 <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=F70000">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F70000">
 <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=F70000">
 
 <br/><br/>
 
-<!-- ================== STATS ================== -->
-<h3>📊 GITHUB ACTIVITY</h3>
+<!-- ================= ACTIVITY ================= -->
+<pre>
+[ SYSTEM ACTIVITY ]
+</pre>
 
 <img src="https://github-readme-stats.vercel.app/api?username=csyNEMES1S&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
 
-<br/>
+<pre>
+[ GitHub statistics may take a few seconds to load ]
+</pre>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csyNEMES1S&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 
-<br/><br/>
+<br/>
 
-<!-- ================== FEATURED PROJECT ================== -->
-<h3>🚀 FEATURED PROJECT</h3>
+<!-- ================= FEATURED ================= -->
+<pre>
+[ FEATURED PROJECT ]
+</pre>
 
 <a href="https://github.com/csyNEMES1S/Local-Network-Scanner">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=csyNEMES1S&repo=Local-Network-Scanner&theme=dark&hide_border=true&cache_seconds=1800">
@@ -97,11 +104,11 @@
 
 <br/><br/>
 
-<!-- ================== SAFE FOOTER ================== -->
+<!-- ================= FOOTER ================= -->
 <pre>
 student@nemesis:~$ echo "Learning. Building. Improving."
-System Status: Stable
-Future Status: In Progress 🚀
+System Status : Stable
+Profile Mode  : Ethical • Academic • Professional
 </pre>
 
 </div>
