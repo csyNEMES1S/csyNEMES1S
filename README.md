@@ -1,9 +1,11 @@
 <div align="center">
 
-# **csyNEMES1S**
-### `Cyber Security Student | Nemesis Protocol Active`
+```bash
+> whoami
+csyNEMES1S
 
-🩸 *İstanbul Aydın Üniversitesi — Siber Güvenlik*  
-🩸 *Red Team / Blue Team | Learning Mode*
+> role
+Cyber Security Student
 
-</div>
+> status
+Learning • Building • Improving
